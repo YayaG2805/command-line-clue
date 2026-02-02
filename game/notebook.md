@@ -25,4 +25,4 @@ En el gazebo del parque se encontró a The Banker.
 En el playground del parque se encontró a The Blacksmith.
 En el pond del parque se encontró a The Tailor.
 En el pond también se encontró un objeto: Kitchen Knife.
-
+en el dock se encontro The Inkkeeper persons
