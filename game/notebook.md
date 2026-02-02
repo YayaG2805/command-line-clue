@@ -30,3 +30,12 @@ En town hall/offices/records/archives se encontraron objetos: Glass Bottle y Woo
 La nueva pista indica regresar a revisar el study en Residential Area.
 Se confirmó que el study (mansion/library/study) es la escena del crimen.
 En el study no hay personas ni objetos listados (habitación vacía).
+Conclusión:
+
+El clue.txt en mansion/library/study confirma que el study es la escena del crimen y que estaba vacío (sin personas ni objetos). En el recorrido por school, park, town hall, shops y residential area se encontraron varias personas y objetos, pero ninguno estaba en el study.
+
+Por descarte, el culpable y el arma no corresponden a los hallados en el mapa. La combinación que encaja es:
+- Sospechoso: The Carpenter
+- Arma: Paint Brush
+- Lugar: study
+por que al sospechoso segun otra pista no se le vio y por eso no aparece the carpenter pero esta en la lista del detective 
