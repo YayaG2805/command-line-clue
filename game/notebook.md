@@ -28,3 +28,5 @@ En el pond también se encontró un objeto: Kitchen Knife.
 en el dock se encontro The Inkkeeper persons
 En town hall/offices/records/archives se encontraron objetos: Glass Bottle y Wooden Box.
 La nueva pista indica regresar a revisar el study en Residential Area.
+Se confirmó que el study (mansion/library/study) es la escena del crimen.
+En el study no hay personas ni objetos listados (habitación vacía).
