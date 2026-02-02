@@ -14,3 +14,6 @@
 *Use this space to record your findings and deductions...*
 
 Location of the crime is still unknown - the room must have been empty when it happened...
+Pista 2:
+El conserje (janitor) sugirió investigar la escuela.
+
