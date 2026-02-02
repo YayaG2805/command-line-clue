@@ -21,4 +21,6 @@ Pista:
 En la cocina de la cafetería de la escuela se encontró un objeto: Steel Ruler.
 Pista:
 En el laboratorio de ciencias de la escuela se encontró a The Mayor.
+Pista:
+En el gimnasio de la escuela se encontró un objeto: Walking Stick.
 
