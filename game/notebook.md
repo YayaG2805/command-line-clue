@@ -17,3 +17,5 @@ Location of the crime is still unknown - the room must have been empty when it h
 Pista 2:
 El conserje (janitor) sugirió investigar la escuela.
 
+Pista:
+En la cocina de la cafetería de la escuela se encontró un objeto: Steel Ruler.
