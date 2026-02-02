@@ -19,12 +19,10 @@ El conserje (janitor) sugirió investigar la escuela.
 
 Pista:
 En la cocina de la cafetería de la escuela se encontró un objeto: Steel Ruler.
-Pista:
 En el laboratorio de ciencias de la escuela se encontró a The Mayor.
-Pista:
 En el gimnasio de la escuela se encontró un objeto: Walking Stick.
-Pista:
 En el gazebo del parque se encontró a The Banker.
-Pista:
 En el playground del parque se encontró a The Blacksmith.
+En el pond del parque se encontró a The Tailor.
+En el pond también se encontró un objeto: Kitchen Knife.
 
