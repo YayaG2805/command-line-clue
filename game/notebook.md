@@ -26,3 +26,5 @@ En el playground del parque se encontró a The Blacksmith.
 En el pond del parque se encontró a The Tailor.
 En el pond también se encontró un objeto: Kitchen Knife.
 en el dock se encontro The Inkkeeper persons
+En town hall/offices/records/archives se encontraron objetos: Glass Bottle y Wooden Box.
+La nueva pista indica regresar a revisar el study en Residential Area.
