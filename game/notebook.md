@@ -25,4 +25,6 @@ Pista:
 En el gimnasio de la escuela se encontró un objeto: Walking Stick.
 Pista:
 En el gazebo del parque se encontró a The Banker.
+Pista:
+En el playground del parque se encontró a The Blacksmith.
 
