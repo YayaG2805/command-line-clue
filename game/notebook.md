@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Teacher
 - [ ] The Carpenter
-- [ ] The Baker
+- [ ] The Chef
+- [ ] The Gardener
 
 ## Weapons
-- [ ] Wooden Box
 - [ ] Glass Bottle
-- [ ] Silver Watch
+- [ ] Paint Brush
+- [ ] Brass Bell
 
 ## Notes
 *Use this space to record your findings and deductions...*

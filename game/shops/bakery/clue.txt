@@ -1,5 +1,0 @@
-Investigation Update:
-
-Recent scratches on the floor lead towards the storage.
-
-Remember: Use 'cd "storage"' to follow this lead.
